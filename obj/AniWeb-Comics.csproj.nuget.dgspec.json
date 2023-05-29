@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj": {}
+    "c:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj": {
+    "c:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj",
+        "projectUniqueName": "c:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj",
         "projectName": "AniWeb-Comics",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj",
+        "projectPath": "c:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\obj\\",
+        "outputPath": "c:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

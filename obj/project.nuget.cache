@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJSCJhMXPMXr7w1JPss4nSW/qjEBMZH4Ompdr/Kp7Bz3hu01jYtxKUcav4rIVWLH3sKPZKLJJ3Y4Qvju2n1JMA==",
+  "dgSpecHash": "5Zio1ah847NCVQDDHQiEZ/cOkUuytlLn/u8g8I0TuGCEzQSkX7EVeJlaMe+4uJhznkrW3X0GrEsD8UADHwZjIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj",
+  "projectFilePath": "c:\\Users\\Acer\\Desktop\\Proyecto\\Proyecto-main\\AniWeb-Comics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
